@@ -1,0 +1,7 @@
+{
+  "name": "FIFA Referee Expert",
+  "description": "Bilingual French-Arabic FIFA/IFAB 2025/26 referee expert that analyzes game situations from text, images, or videos.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
